@@ -2,10 +2,6 @@
 
 ## Meet your 2021 Summer Institute instructors!
 
-
-
-=======
-
 Hi, I'm [Rachael Blake](http://rachaeleblake.com).  
 
 <img src="./images/scotland.jpg" height="50%" width="30%" />

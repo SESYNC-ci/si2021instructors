@@ -1,6 +1,6 @@
 # 2021 Summer Institute teams
 
-Below are links to each team's 202 SESYNC SI repo on GitHub.
+Below are links to each team's 2021 SESYNC SI repo on GitHub.
 
 - [Instructors!](https://github.com/SESYNC-ci/si2021instructors)
 - [Thermal Refuges]()
