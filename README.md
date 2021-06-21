@@ -21,3 +21,15 @@ Hi, I'm [Renee Obringer](https://www.reneeobringer.com/).
 <img src="./images/luxembourg1.jpeg" />
 
 I am a postdoctoral researcher at SESYNC studying the human dimension of urban water systems under climate change. Within my research I leverage predictive modeling techniques to better understand climate impacts on urban water systems. Recently, I have been working to integrate data science techniques with social science data through agent-based modeling. I do nearly all of my research in R, but I particularly enjoy finding new ways to visualize my data through [ggplot](https://ggplot2.tidyverse.org/)! Outside of research, I enjoy traveling, cooking, reading books, and watching soccer. 
+
+=======
+
+Hello, I'm [Quentin Read](http://quentinread.com)!
+
+![Quentin and V](./images/qandv.JPG)
+
+I'm a SESYNC data scientist, and a plant ecologist by training. My SESYNC research focuses on assessing how the food we consume impacts the environment and biodiversity, and on finding cost-effective solutions to reduce food waste. I also contribute to a few different R packages: [rslurm](https://cyberhelp.sesync.org/rslurm), which helps people run code on computing clusters; [ggalluvial](https://corybrunson.github.io/ggalluvial), an add-on data viz package for ggplot2; and [Ostats](https://neon-biodiversity.github.io/Ostats), a community ecology data analysis tool. This is my second time helping teach the Summer Institute, and I'm excited to be one of your instructors this year! In my spare time I play the Irish flute, watch birds, and run/cycle.
+
+My goals this week line up with Rachael's, especially having fun!
+
+=======
