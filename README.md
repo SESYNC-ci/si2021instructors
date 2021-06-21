@@ -36,8 +36,7 @@ My goals this week line up with Rachael's, especially having fun!
 
 Hello, I'm Mary Glover!
 
-![Mary](./images/Mary.jpg)
-
+<img src="./images/Mary.jpg" height="50%" width="30%" />
 I am excited to join the SESYNC cyber team for the week to help teach the summer institute for the second year! 
 
 I am an instructor at Bowie State University in Bowie, MD, where I teach introductory biology. My favorite part of teaching undergraduate biology is incorporating authentic research projects into laboratory classes. For my PhD, I studied the ecological and evolutionary forces that drive the formation of fly species that infest walnuts. In my free time, I enjoying knitting and listening to audiobooks.
