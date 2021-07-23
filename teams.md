@@ -1,6 +1,6 @@
 # 2021 Summer Institute teams
 
-Below are links to each team's 2021 SESYNC SI repo on GitHub.
+Below are links to each team's 2021 SESYNC SI repo on GitHub (or a link to their SESYNC abstract page if the repo is private).
 
 - [Instructors!](https://github.com/SESYNC-ci/si2021instructors)
 - [Thermal Refuges](https://github.com/dalgroundwater/thermal-refuges-text)
@@ -11,6 +11,6 @@ Below are links to each team's 2021 SESYNC SI repo on GitHub.
 - [Hawaii Fisheries Modeling](https://github.com/ainnesgold/sesync_2021) 
 - [Migration and Tree Growing](https://www.sesync.org/project/pursuit-program/migration-marginal-agricultural-land-and-tree-cover-expansion-in-low-and)
 - [Biodiversity in Eco-Function](https://www.sesync.org/project/propose-a-pursuit/the-missing-link-incorporating-the-role-of-biological-diversity-into)
-- [Urban Forests Latin America]()
-- [Climate-Induced Migration]() 
+- [Urban Forests Latin America](https://www.sesync.org/project/workshop-program/workshop-the-potential-of-urban-nature-to-support-sustainability-in-latin)
+- [Climate-Induced Migration](https://github.com/nchoquettelevy/NepalFarmerDataAnalysis) 
 - [Microclimate and Health](https://github.com/yizhend12/Microclimate-Health)
